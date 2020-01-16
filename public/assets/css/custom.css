@@ -1,0 +1,192 @@
+body {
+    font-family: 'work sans', sans-serif;
+}
+
+a:hover,
+button:hover,
+button:active,
+a:active,
+button:focus {
+    outline: 0;
+}
+
+.list-group-item.d-inline-block {
+    border: 0;
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: 0px;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.list-group-item.d-inline-block {
+    color: #000;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 14px;
+    font-family: 'work sans';
+}
+
+.user_profile_name.text-center h2 {
+    font-size: 17px;
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+    border-bottom: 2px solid #3498db;
+}
+
+.nav-tabs {
+
+    border-bottom: 1px solid transparent;
+
+}
+
+.nav-tabs .nav-link {
+
+    border: 0;
+}
+
+.followingship-status {
+
+    border: 0;
+    padding: 5px 20px;
+    border-radius: 3px;
+    font-size: 12px;
+    color: #000;
+
+}
+
+.following.followingship-status {
+
+    background: #f0f0f0;
+
+}
+
+.followingship-username.float-left {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.load_more_section.text-center button {
+    margin-top: 20px;
+    border: 0;
+    padding: 5px 20px;
+    border-radius: 3px;
+    font-size: 13px;
+}
+
+.load_more_section.text-center i {
+    padding-right: 10px;
+}
+
+.followed.followingship-status {
+    background:
+        #3498db;
+    color:
+        #fff;
+}
+
+
+.scrollbar-inner_2 {
+    height: 300px;
+}
+
+
+.list-group.following_you.clearfix {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+
+body {
+    background-image: url('../img/files/stars.svg');
+    background-color: #3c40c6;
+    color: #fff;
+    width: 100%;
+    float: left;
+    display: block;
+}
+
+.itemise_inner {
+    background: #fff;
+    border-radius: 3px;
+    margin-top: 50px;
+}
+
+.user_profile_name.text-center h2 {
+    font-size: 17px;
+    color: #000;
+}
+
+.se_people {
+    width: 100%;
+    padding: 10px 20px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    font-size: 13px;
+    color: #000;
+    background: #efeeee;
+    height: 40px;
+    padding-right: 48px;
+}
+
+#people form {
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.se_people_icon {
+    position: absolute;
+    right: 0;
+    height: 40px;
+    background: transparent;
+    border: 0;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.scroll-wrapper.scrollbar-inner {
+    margin-top: 20px;
+}
+
+.profile_section_inner.login_section {
+    padding: 50px;
+}
+
+.form_login_action {
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px;
+    border: 0;
+    border-radius: 3px;
+    background: #2ecc71;
+    color:#fff;
+    font-size: 14px;
+}
+
+.profile_section_inner.login_section .form-row {
+    color: #000;
+    margin-bottom: 20px;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.profile_section_inner.login_section h2 {
+    color: #000;
+    margin-bottom: 30px;
+    font-size: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.aleady_note {
+    color: #000;
+    font-size: 12px;
+    font-weight: 500;
+}
